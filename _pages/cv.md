@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CURRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+PENDIDIKAN
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* SD Negeri 1 Candi - Sidoarjo 2000 - 2006
+* SMP Negeri 3 Candi - Sidoarjo 2006 - 2009
+* SMA Negeri 9 - Semarang 2009 - 2012
+* STIKOM - Surabaya 2012 - sekarang
 
-Work experience
+PENGALAMAN KERJA
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PT.PAL Indonesia (Persero)
+  * Program Kerja Praktek
+  * Agustus 2015 - September 2015
+  * Pembuatan Aplikasi Manajemen Kartu Nama
+  * Supervisor: Ir. Dodik H.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* PT.Rejeki Transindo
+  * Pembuatan Aplikasi Rental Mobil
+  * September 2016 - Desember 2016
   
-Skills
+KETERAMPILAN
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microsoft Office - Word, Excel, Power Point, Access
+* Programing
+  * Javascript - jQuery, ES6, Twig, Mustache, Riot.js, pug.js
+  * PHP - Slim, Silex, Twig, Plates
+  * SQL - MySQL, SQL Server
+  * Phyton
+  * Bash Script
+* Multimedia - Photoshop, inDesign, Ilustrator, Premier
+* Bahasa - Indonesia, Inggris (pasif)
 
-Publications
+PENGALAMAN ORGANISASI
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* UKM Linux User Group STIKOM Surabaya 2012 - 2015
+* STIKOM Festival 2012 - Panitia SIE acara
+* STIKOM Festival 2013 - Panitia SIE publikasi dan dokumentasi
+* STIKOM Surabaya News 2013 - 2015 - Penulis, editor dan desainer
