@@ -1,14 +1,13 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Hi, Saya adalah software developer dari Surabaya, Indonesia"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### Hi, Saya adalah software developer dari Surabaya, Indonesia.
 ### Saya dapat membantu anda membangun produk sotware anda.
 
 > Saya mendesain, membuat, mengoperasikan & memperbaiki aplikasi - aplikasi web
