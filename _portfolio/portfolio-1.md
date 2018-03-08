@@ -5,9 +5,10 @@ collection: portfolio
 ---
 
 {% include image-slider.html path="/images/rental/" content="transaksi-sewa.png|daftar-penyewaan.png|sewa-baru-1.png|sewa-baru-2.png|invoice-sewa.png|tambah-kendaraan.jpg" %}
+
 Proyek aplikasi ini merupakan permintaan PT. Rejeki Transindo sebagai media pencatatan dan perhitungan transaksi penyewaan kendaraan. Aplikasi ini merupakan aplikasi desktop yang dibangun menggunakan teknologi HTML & Javascript menggunakan [Electron](https://electronjs.org/). Pada aplikasi ini digunakan database SQLite yang harus dilakukan *Compiling* berdasarkan *OS* yang digunakan, dalam kasus ini *OS Windows* yang merupakan tantangan terbesar karena diperlukan pengetahuan tentang *Compiling native library* dengan *Node.js*.
 
-### Teknologi
+## Teknologi
 Teknologi Pemograman yang digunakan pada proyek ini.
 * UI/UX Planning
 * HTML5
@@ -16,7 +17,7 @@ Teknologi Pemograman yang digunakan pada proyek ini.
 * Twig.js - templating system
 * Electron
 * Node.js
-* SQLite - SQLite - Node.js Intregration
+* SQLite - SQLite ~ Node.js Intregration
 
-### Resources
+## Resources
 * Akses source code proyek pada [GITHUB](https://github.com/mientz/rejeki)
