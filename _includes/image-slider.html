@@ -2,7 +2,7 @@
 <div class="slider">
     {% assign images = include.content | split: "|" %}
     {% for image in images %}
-    <div><img src="{{ include.path }}{{ image }}" height="700px" style="border: 1px solid #7a8288;"/></div>
+    <div style="border: 1px solid #7a8288;"><img src="{{ include.path }}{{ image }}" height="700px"/></div>
     {% endfor %}
 </div>
 <br/>
