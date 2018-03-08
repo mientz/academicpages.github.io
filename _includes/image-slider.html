@@ -1,0 +1,11 @@
+<div id="sliderFrame">
+    <div id="slider">
+        {% assign images = include.content | split: "|" %}
+        {% for image in images %}
+          <img src="{{ image }}"/>
+        {% endfor %}
+    </div>
+    <div id="htmlcaption" style="display: none;">
+        <em>HTML</em> caption. Link to <a href="http://www.google.com/">Google</a>.
+    </div>
+</div>
