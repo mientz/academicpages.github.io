@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "Hi, Saya adalah software developer dari Surabaya, Indonesia"
+title: "Hi, Saya adalah software developer dari Surabaya, Indonesia"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
