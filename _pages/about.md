@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Full-Stack Web & Software Developer | Surabaya, Indonesia"
+title: 'Full-Stack Web & Software Developer | Surabaya, Indonesia'
 excerpt: "About me"
 author_profile: true
 redirect_from: 
