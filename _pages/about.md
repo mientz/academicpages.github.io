@@ -11,5 +11,6 @@ redirect_from:
 ### Hi, Saya adalah software developer dari Surabaya, Indonesia.
 ### Saya dapat membantu anda membangun produk sotware anda.
 
-> Saya mendesain, membuat, mengoperasikan & kadang memperbaiki aplikasi - aplikasi web
+> Saya mendesain, membuat, mengoperasikan & memperbaiki aplikasi - aplikasi web
+> 
 > Ada proyek yang ingin anda diskusikan? [aminwjy@gmail.com](aminwjy@gmail.com)
