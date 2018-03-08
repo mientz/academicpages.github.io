@@ -12,4 +12,4 @@ redirect_from:
 
 > Saya mendesain, membuat, mengoperasikan & memperbaiki aplikasi - aplikasi web
 > 
-> Ada proyek yang ingin anda diskusikan? [aminwjy@gmail.com](aminwjy@gmail.com)
+> Ada proyek yang ingin anda diskusikan? [aminwjy@gmail.com](mailto:aminwjy@gmail.com)
