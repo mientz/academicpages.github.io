@@ -1,11 +1,6 @@
-<div id="sliderFrame">
-    <div id="slider">
-        {% assign images = include.content | split: "|" %}
-        {% for image in images %}
-          <img src="{{ include.path }}{{ image }}" height="700px"/>
-        {% endfor %}
-    </div>
-    <div id="htmlcaption" style="display: none;">
-        <em>HTML</em> caption. Link to <a href="http://www.google.com/">Google</a>.
-    </div>
+<div class="slider">
+    {% assign images = include.content | split: "|" %}
+    {% for image in images %}
+    <div><img src="{{ include.path }}{{ image }}" height="700px"/></div>
+    {% endfor %}
 </div>
