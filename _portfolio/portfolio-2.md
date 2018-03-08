@@ -20,6 +20,7 @@ Teknologi Pemograman yang digunakan pada proyek ini.
 * PHP
 * Slim Framework
 * PHPMailer
+* OCR - Open Source Image Character Reader
 * MySQL
 
 ## Resources
