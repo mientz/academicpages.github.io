@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, Saya adalah software developer dari Surabaya, Indonesia"
+title: "Hey, I'm a software developer from Surabaya, Indonesia"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-### Saya dapat membantu anda membangun produk sotware anda.
+### I can help you build your next product.
 
-> Saya mendesain, membuat, mengoperasikan & memperbaiki aplikasi - aplikasi web
+> I design, build, operate & sometimes rescue full-stack web applications
 > 
-> Ada proyek yang ingin anda diskusikan? [aminwjy@gmail.com](mailto:aminwjy@gmail.com)
+> Have a project you'd like to discuss? [aminwjy@gmail.com](mailto:aminwjy@gmail.com)
