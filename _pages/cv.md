@@ -11,7 +11,7 @@ redirect_from:
 
 PENDIDIKAN
 ======
-* SD Negeri 1 Candi - Sidoarjo 2000 - 2006
+* SD Negeri 1 Candi - Sidoarjo 2000
 * SMP Negeri 3 Candi - Sidoarjo 2006 - 2009
 * SMA Negeri 9 - Semarang 2009 - 2012
 * STIKOM - Surabaya 2012 - sekarang
